@@ -1,9 +1,18 @@
-![Jatin Rao](https://user-images.githubusercontent.com/56562571/87011848-14926a00-c1e6-11ea-9d79-1e93d1f6778f.png)
-
 ## Hey there 👋
 
-I'm Jatin Rao (he/him) & I'm a Web Developer & Content Creator from India.
+I'm Jatin Rao. I'm a Web Developer and Technical Writer from India. I'm passionate about building better web applications for one and all.
 
-- Portfolio: https://jatinrao.dev
-- Twitter: https://twitter.com/iamjatinrao
-- LinkedIn: https://linkedin.com/in/jatin-rao
+I create technical content on my [Blog](https://jatinrao.dev) && [YouTube](https://www.youtube.com/channel/UC5oG6ylG_toPgFiMWiOXUMg).
+
+- 💬 Ask me about: Web Development
+- 📫 How to reach me: DM [@iamjatinrao](https://twitter.com/iamjatinrao)
+- 😄 Pronouns: He/him
+
+### Useful Links 💙
+
+- [Blog]((https://jatinrao.dev)
+- [GitHub](https://github.com/jatin2003)
+- [YouTube](https://www.youtube.com/channel/UC5oG6ylG_toPgFiMWiOXUMg)
+- [Twitter](https://twitter.com/iamjatinrao)
+- [Instagram](https://www.instagram.com/jatinrao.dev)
+- [LinkedIn](https://linkedin.com/in/jatin-rao)
