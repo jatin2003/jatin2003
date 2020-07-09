@@ -1,8 +1,6 @@
 ## Hey there 👋
 
-I'm Jatin Rao. I'm a Web Developer and Technical Writer from India. I'm passionate about building better web applications for one and all.
-
-I create technical content on my [Blog](https://jatinrao.dev) && [YouTube](https://www.youtube.com/channel/UC5oG6ylG_toPgFiMWiOXUMg).
+I'm Jatin Rao. I'm a Web Developer who's passionate about building better web applications for one and all.
 
 - 💬 Ask me about: Web Development
 - 📫 How to reach me: DM [@iamjatinrao](https://twitter.com/iamjatinrao)
@@ -16,3 +14,5 @@ I create technical content on my [Blog](https://jatinrao.dev) && [YouTube](https
 - [Twitter](https://twitter.com/iamjatinrao)
 - [Instagram](https://www.instagram.com/jatinrao.dev)
 - [LinkedIn](https://linkedin.com/in/jatin-rao)
+
+![Jatin's Github Stats](https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true)
