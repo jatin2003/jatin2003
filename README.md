@@ -8,7 +8,7 @@ I'm Jatin Rao. I'm a Web Developer who's passionate about building better web ap
 
 ### Useful Links 💙
 
-- [Blog]((https://jatinrao.dev)
+- [Blog](https://jatinrao.dev)
 - [GitHub](https://github.com/jatin2003)
 - [YouTube](https://www.youtube.com/channel/UC5oG6ylG_toPgFiMWiOXUMg)
 - [Twitter](https://twitter.com/iamjatinrao)
