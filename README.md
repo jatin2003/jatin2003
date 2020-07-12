@@ -1,10 +1,6 @@
 ## Hey there 👋
 
-I'm Jatin Rao. I'm a Web Developer who's passionate about building better web applications for one and all.
-
-- 💬 Ask me about: Web Development
-- 📫 How to reach me: DM [@iamjatinrao](https://twitter.com/iamjatinrao)
-- 😄 Pronouns: He/him
+I'm Jatin Rao (he/him). I'm a Web Developer who's passionate about building better web applications for one and all.
 
 ### Useful Links 💙
 
@@ -14,5 +10,3 @@ I'm Jatin Rao. I'm a Web Developer who's passionate about building better web ap
 - [Twitter](https://twitter.com/iamjatinrao)
 - [Instagram](https://www.instagram.com/jatinrao.dev)
 - [LinkedIn](https://linkedin.com/in/jatin-rao)
-
-![Jatin's Github Stats](https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true)
