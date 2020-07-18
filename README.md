@@ -1,8 +1,13 @@
-## Hey there 👋
+### Hi there 👋
 
-I'm Jatin Rao (he/him). I'm a Web Developer who's passionate about building better web applications for one and all.
+I'm Jatin. I'm a web developer focused on creating amazing experiences :raised_hands: 
 
-### Useful Links 💙
+---
 
-| [Blog](https://jatinrao.dev) | [YouTube](https://www.youtube.com/channel/UC5oG6ylG_toPgFiMWiOXUMg) | [Twitter](https://twitter.com/iamjatinrao) | [Instagram](https://www.instagram.com/jatinrao.dev) | [LinkedIn](https://linkedin.com/in/jatin-rao) |
-| --- | --- | --- | --- | --- |
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
