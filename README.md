@@ -8,6 +8,4 @@ I'm Jatin. I'm a web developer focused on creating amazing experiences :raised_h
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ---
