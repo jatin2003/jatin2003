@@ -18,6 +18,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [20 Developer Portfolios for Inspiration](https://jatinrao.dev/20-developer-portfolios-for-inspiration-ckczqsjpa00bh95s10gnn6q3j)
+- [Beginners Guide to HTML](https://dev.to/jatinrao/beginners-guide-to-html-ibd)
+- [GIT Crash Course](https://jatinrao.dev/git-crash-course-ckcs2tax8004fkys140i2elh4)
+- [Beginners Guide to HTML](https://jatinrao.dev/beginners-guide-to-html-ckcnhzs9b00cjfqs134ck8cfa)
+- [What is Web Development?](https://jatinrao.dev/what-is-web-development-ckbiu2gr1016uzqs1ngddhdye)
 <!-- BLOG-POST-LIST:END -->
 
 ---
