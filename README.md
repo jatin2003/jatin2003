@@ -5,8 +5,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Write 20 blog posts
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=jatin2003"/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
 </p>
 
 <!-- ### Connect with me: -->
