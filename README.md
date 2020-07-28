@@ -1,13 +1,24 @@
-### Hi there 👋
+## Hi there, I'm Jatin 👋
 
-I'm Jatin. I'm a web developer focused on creating amazing experiences :raised_hands: 
+- 💻 I'm a Student, Developer, and Blogger
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Write 20 blog posts
 
-### :zap: Recent Activity
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=jatin2003"/>
+</p>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//jatin2003/jatin2003.github.io/issues/6) in [jatin2003/jatin2003.github.io](https://github.com//jatin2003/jatin2003.github.io)
-2. ❗️ Closed issue [#8](https://github.com//sindresorhus/sindresorhus/issues/8) in [sindresorhus/sindresorhus](https://github.com//sindresorhus/sindresorhus)
-3. 🗣 Commented on [#8](https://github.com//sindresorhus/sindresorhus/issues/8) in [sindresorhus/sindresorhus](https://github.com//sindresorhus/sindresorhus)
-4. 🗣 Commented on [#90](https://github.com//anuraghazra/github-readme-stats/issues/90) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. ❗️ Opened issue [#1](https://github.com//jatin2003/Python-Programs/issues/1) in [jatin2003/Python-Programs](https://github.com//jatin2003/Python-Programs)
-<!--END_SECTION:activity-->
+<!-- ### Connect with me: -->
+
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true" />
