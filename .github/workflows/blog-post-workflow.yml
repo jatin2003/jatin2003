@@ -1,4 +1,4 @@
-name: Latest Blog Post
+name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://jatinrao.dev/rss.xml", "https://dev.to/feed/jatinrao"
+          feed_list: "https://jatinrao.dev/rss.xml,https://dev.to/feed/jatinrao"
