@@ -18,11 +18,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GIT Crash Course](https://dev.to/jatinrao/git-crash-course-52i0)
 - [Resources for Python Developers](https://jatinrao.dev/resources-for-python-developers-ckd926wsp002938s13wl30qfi)
 - [20 Developer Portfolios for Inspiration](https://jatinrao.dev/20-developer-portfolios-for-inspiration-ckczqsjpa00bh95s10gnn6q3j)
 - [Beginners Guide to HTML](https://dev.to/jatinrao/beginners-guide-to-html-ibd)
 - [GIT Crash Course](https://jatinrao.dev/git-crash-course-ckcs2tax8004fkys140i2elh4)
-- [Beginners Guide to HTML](https://jatinrao.dev/beginners-guide-to-html-ckcnhzs9b00cjfqs134ck8cfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
