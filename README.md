@@ -18,11 +18,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resources for Frontend Developers](https://dev.to/jatinrao/resources-for-frontend-developers-1l9i)
+- [Resources for Frontend Developers](https://jatinrao.dev/resources-for-frontend-developers-ckdn64rhh00b23bs16lvl3m69)
 - [Best Github Repositories for Developers](https://dev.to/jatinrao/best-github-repositories-for-developers-3735)
 - [Best Github Repositories for Developers](https://jatinrao.dev/best-github-repositories-for-developers-ckdimqsl40048zzs19gjdgc8m)
 - [20 Developer Portfolios for Inspiration 🤩](https://dev.to/jatinrao/20-developer-portfolios-for-inspiration-2k06)
-- [GIT Crash Course](https://dev.to/jatinrao/git-crash-course-52i0)
-- [Resources for Python Developers](https://jatinrao.dev/resources-for-python-developers-ckd926wsp002938s13wl30qfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
