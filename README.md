@@ -10,6 +10,18 @@
   <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/jatin2003?tab=followers">
+    <img src="https://img.shields.io/github/followers/jatin2003?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/iamjatinrao">
+    <img src="https://img.shields.io/twitter/follow/iamjatinrao?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/3Ks7sMA">
+    <img src="https://img.shields.io/discord/712229088789790771?logo=discord&style=for-the-badge" />
+  </a>
+</p>
+
 <!-- ### Connect with me: -->
 
 <br />
