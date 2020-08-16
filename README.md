@@ -30,11 +30,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make your First Open-Source Contribution?](https://jatinrao.dev/how-to-make-your-first-open-source-contribution-ckdxbgo6303m9ids1huut4cgv)
 - [Resources for Frontend Developers](https://dev.to/jatinrao/resources-for-frontend-developers-1l9i)
 - [Resources for Frontend Developers](https://jatinrao.dev/resources-for-frontend-developers-ckdn64rhh00b23bs16lvl3m69)
 - [Best Github Repositories for Developers](https://dev.to/jatinrao/best-github-repositories-for-developers-3735)
 - [Best Github Repositories for Developers](https://jatinrao.dev/best-github-repositories-for-developers-ckdimqsl40048zzs19gjdgc8m)
-- [20 Developer Portfolios for Inspiration 🤩](https://dev.to/jatinrao/20-developer-portfolios-for-inspiration-2k06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
