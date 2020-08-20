@@ -30,10 +30,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Sync Your Fork with Original Git Repository](https://jatinrao.dev/how-to-sync-your-fork-with-original-git-repository-cke1bwzfc00b9vls1cvyo14o0)
-- [How to make your First Open-Source Contribution?](https://jatinrao.dev/how-to-make-your-first-open-source-contribution-ckdxbgo6303m9ids1huut4cgv)
+- [How to Sync Your Fork with Original Git Repository](https://jatinrao.dev/how-to-sync-your-fork-with-original-git-repository)
+- [How to make your First Open-Source Contribution?](https://jatinrao.dev/how-to-make-your-first-open-source-contribution)
 - [Resources for Frontend Developers](https://dev.to/jatinrao/resources-for-frontend-developers-1l9i)
-- [Resources for Frontend Developers](https://jatinrao.dev/resources-for-frontend-developers-ckdn64rhh00b23bs16lvl3m69)
+- [Resources for Frontend Developers](https://jatinrao.dev/resources-for-frontend-developers)
 - [Best Github Repositories for Developers](https://dev.to/jatinrao/best-github-repositories-for-developers-3735)
 <!-- BLOG-POST-LIST:END -->
 
