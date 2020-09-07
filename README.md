@@ -30,11 +30,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
 - [Monthly Reflection - August 2020](https://jatinrao.dev/monthly-reflection-august-2020)
 - [Fear Of Missing Out As A Developer](https://jatinrao.dev/fear-of-missing-out-as-developer)
 - [The Rise of Developers Discords](https://jatinrao.dev/the-rise-of-developers-discords)
 - [How to Sync Your Fork with Original Git Repository](https://jatinrao.dev/how-to-sync-your-fork-with-original-git-repository)
-- [How to make your First Open-Source Contribution?](https://jatinrao.dev/how-to-make-your-first-open-source-contribution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
