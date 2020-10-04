@@ -10,18 +10,6 @@
   <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/jatin2003?tab=followers">
-    <img src="https://img.shields.io/github/followers/jatin2003?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/iamjatinrao">
-    <img src="https://img.shields.io/twitter/follow/iamjatinrao?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/3Ks7sMA">
-    <img src="https://img.shields.io/discord/712229088789790771?logo=discord&style=for-the-badge" />
-  </a>
-</p>
-
 <!-- ### Connect with me: -->
 
 <br />
@@ -40,3 +28,14 @@
 ---
 
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true" />
+
+<br>
+
+## :mailbox: How to reach me : 
+
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/3Ks7sMA)
