@@ -22,7 +22,7 @@
 
 -----
 
-<img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true" />
+![Jatin's Github Stats](https://github-readme-stats.vercel.app/api?username=jatin2003&theme=dark&show_icons=true)
 
 <p align="center"> 
   Visitor count<br>
