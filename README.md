@@ -24,7 +24,6 @@
 -----
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://github-readme-stats.vercel.app/api?username=jatin2003&theme=radical&show_icons=true" alt="Jatin's Github Stats" />
 </p>
 
