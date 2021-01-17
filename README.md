@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Jatin.</h2>
+<h1 align="center">👋 Hello! I'm Jatin.</h1>
 <p align="center">
   <a href="https://jatinrao.dev">Blog</a> •
   <a href="https://twitter.com/iamjatinrao">Twitter</a>
@@ -22,7 +22,7 @@
 
 -----
 
-![Jatin's Github Stats](https://github-readme-stats.vercel.app/api?username=jatin2003&theme=dark&show_icons=true)
+![Jatin's Github Stats](https://github-readme-stats.vercel.app/api?username=jatin2003&theme=radical&show_icons=true)
 
 <p align="center"> 
   Visitor count<br>
