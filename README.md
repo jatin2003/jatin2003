@@ -1,11 +1,12 @@
-<h1 align="center">👋 Hello! I'm Jatin.</h1>
+<h2 align="center">👋 Hello! I'm Jatin.</h1>
 <p align="center">
-  <a href="https://jatinrao.dev">Blog</a> •
+  <a href="https://jatinrao.dev">Website</a> •
   <a href="https://twitter.com/iamjatinrao">Twitter</a>
 </p>
 
-- 🌱 I’m currently learning **JavaScript and Python**
-- 💬 Ask me about **Python, JavaScript, Content Creation**
+- 😄 My Pronouns: He/Him
+- 🌱 I’m currently learning **JavaScript**
+- 💬 Ask me about **Python, Open Source, Content Creation**
 - 📫 How to reach me: [@iamjatinrao](https://twitter.com/iamjatinrao) on Twitter
 
 -----
@@ -22,9 +23,11 @@
 
 -----
 
-![Jatin's Github Stats](https://github-readme-stats.vercel.app/api?username=jatin2003&theme=radical&show_icons=true)
-
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin2003&theme=radical&show_icons=true" alt="Jatin's Github Stats" />
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" />
 </p>
