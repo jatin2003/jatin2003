@@ -23,10 +23,11 @@
 
 -----
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin2003&theme=radical&show_icons=true" alt="Jatin's Github Stats" />
-</p>
+### 🏆 Github Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jatin2003&theme=dark" width="48%" >
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" align="center" />
 </p>
