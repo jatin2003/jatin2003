@@ -14,6 +14,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Games to Level Up Your CSS Skills](https://jatinrao.dev/4-games-to-level-up-your-css-skills)
+- [Beginners Guide To Markdown](https://jatinrao.dev/beginners-guide-to-markdown)
+- [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
+- [Monthly Reflection - August 2020](https://jatinrao.dev/monthly-reflection-august-2020)
+- [Fear Of Missing Out As A Developer](https://jatinrao.dev/fear-of-missing-out-as-developer)
 <!-- BLOG-POST-LIST:END -->
 
 -----
